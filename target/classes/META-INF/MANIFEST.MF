@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: RESTService
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: Alan Lee
+Implementation-Vendor-Id: com.teste
+Build-Jdk: 1.8.0_172
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/RESTService
+Created-By: Maven Integration for Eclipse
+
